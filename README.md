@@ -1,8 +1,10 @@
-echo "# demo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/KiraLaird/demo.git
-git push -u origin main
-git init 34444
+# NeuroStartUp
+
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
+*NeuroStartUp* Ч динамически развивающийс€ стартап, специализирующийс€ на поиске с использованием новейших технологий искусственного интеллекта.
+
+Ќаши преимущества:
+* ¬ысока€ точность поиска
+* ¬ысока€ скорость поиска
+* Ќизка€ цена
